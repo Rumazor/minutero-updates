@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "sha256": "55e87db0748ebff0cc20c952af19d1391cdc58215401f037b21b1747daddb449",
-  "notas": "Después de actualizarse, Minutero muestra qué trae la versión nueva."
+  "version": "0.2.3",
+  "sha256": "b722215e67487e1b3a03c29dff1b0dc11ba105a28223d8ec1beec21b67a109f7",
+  "notas": "Cuando hay una versión nueva, Minutero te avisa abajo a la derecha y se actualiza con un clic."
 }
