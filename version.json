@@ -1,6 +1,6 @@
 {
-  "version": "0.2.8",
-  "sha256": "1c5b31c7e2e2c613ce2d14cb5fab3259887514830a4411e283a7b50e72c0d0db",
-  "notas": "Interfaz más minimalista: menos cajas, contadores y marcas.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/2a30bfbfe8a7875bfdae1ea8013988237ef0fe4d/minutero.exe"
+  "version": "0.2.9",
+  "sha256": "02419509092386b4627b646780e120f4159c3ba2073ae85bba72b4c41d5d0fbd",
+  "notas": "Grises neutros en toda la app y panel con el uso de tu plan de Claude.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/5d463c78daf4a935aa33ce09cbfbd42797f3dda3/minutero.exe"
 }
