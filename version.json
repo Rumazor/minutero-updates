@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "sha256": "36de54a8f4a2c611d9730b72d1562b73dc4ae28e484e92602ab3e60cf92b4414",
-  "notas": "Voces con nombre, proyectos personalizables, fecha en las minutas, instalador propio y actualizaciones."
+  "version": "0.2.1",
+  "sha256": "308e9d86ad23da529d9e72f07f17409005da8a2fa52d20d9fd9fe866451ae8c4",
+  "notas": "El separador de voces ya distingue bien a cada persona (umbral corregido)."
 }
