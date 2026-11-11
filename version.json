@@ -1,5 +1,6 @@
 {
   "version": "0.2.3",
   "sha256": "b722215e67487e1b3a03c29dff1b0dc11ba105a28223d8ec1beec21b67a109f7",
-  "notas": "Cuando hay una versión nueva, Minutero te avisa abajo a la derecha y se actualiza con un clic."
+  "notas": "Cuando hay una versión nueva, Minutero te avisa abajo a la derecha y se actualiza con un clic.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/d3abb07132e522925d41172eb75045f489ec39a4/minutero.exe"
 }
