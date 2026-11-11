@@ -1,6 +1,6 @@
 {
-  "version": "0.2.4",
-  "sha256": "d085b93c8144ebb0e350e2b39d895b9522fe7936033b872f9f17b769a7607382",
-  "notas": "Barra de estado abajo, acciones de cada reunión a la vista y confirmación para eliminar en una ventana.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/fd8d9ddd719ee316f5415adc0119d2e2e105deb5/minutero.exe"
+  "version": "0.2.5",
+  "sha256": "7269cf339076f1407c0c4924b6c4ddd66f110d809f54f363be1db6fa43d82be7",
+  "notas": "Botón «Grabar reunión» al estilo Notas de Voz, barra flotante sin fondo blanco y listas más claras.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/d7089e2c9b38c36b4a66e702ae0981c336f0adc5/minutero.exe"
 }
