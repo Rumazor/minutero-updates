@@ -1,6 +1,6 @@
 {
-  "version": "0.2.9",
-  "sha256": "02419509092386b4627b646780e120f4159c3ba2073ae85bba72b4c41d5d0fbd",
-  "notas": "Grises neutros en toda la app y panel con el uso de tu plan de Claude.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/5d463c78daf4a935aa33ce09cbfbd42797f3dda3/minutero.exe"
+  "version": "0.2.10",
+  "sha256": "b153cfe62cd0acd1769d526952508bfb7a390475064385e1c598226bb9c3c93f",
+  "notas": "Uso del plan y buscador con mejor contraste; panel con el detalle de cada límite.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/4ec014e61931d993181e6467b0442c9582015113/minutero.exe"
 }
