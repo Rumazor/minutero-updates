@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "sha256": "308e9d86ad23da529d9e72f07f17409005da8a2fa52d20d9fd9fe866451ae8c4",
-  "notas": "El separador de voces ya distingue bien a cada persona (umbral corregido)."
+  "version": "0.2.2",
+  "sha256": "55e87db0748ebff0cc20c952af19d1391cdc58215401f037b21b1747daddb449",
+  "notas": "Después de actualizarse, Minutero muestra qué trae la versión nueva."
 }
