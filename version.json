@@ -1,6 +1,6 @@
 {
-  "version": "0.2.6",
-  "sha256": "a03a0a08433da66b216f7e3f9a0021120359082c956607652debaa57d3feaef9",
-  "notas": "Uso de tu plan de Claude en la barra de abajo, barra de grabación sin saltos y aviso claro cuando no se escuchó a nadie.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/e85ea65366f3151c9f0aaeb0eae9db1c298d0854/minutero.exe"
+  "version": "0.2.7",
+  "sha256": "53c0c3339800228d5ddc6574219b95fa2316a95a074586c60314b9ee79e70e80",
+  "notas": "El uso de tu plan de Claude se mantiene a la vista aunque Anthropic pida esperar entre consultas.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/71fab76b26bccec93edeaeeac20e5a257c829d9c/minutero.exe"
 }
