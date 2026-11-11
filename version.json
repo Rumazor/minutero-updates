@@ -1,6 +1,6 @@
 {
-  "version": "0.2.5",
-  "sha256": "7269cf339076f1407c0c4924b6c4ddd66f110d809f54f363be1db6fa43d82be7",
-  "notas": "Botón «Grabar reunión» al estilo Notas de Voz, barra flotante sin fondo blanco y listas más claras.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/d7089e2c9b38c36b4a66e702ae0981c336f0adc5/minutero.exe"
+  "version": "0.2.6",
+  "sha256": "a03a0a08433da66b216f7e3f9a0021120359082c956607652debaa57d3feaef9",
+  "notas": "Uso de tu plan de Claude en la barra de abajo, barra de grabación sin saltos y aviso claro cuando no se escuchó a nadie.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/e85ea65366f3151c9f0aaeb0eae9db1c298d0854/minutero.exe"
 }
