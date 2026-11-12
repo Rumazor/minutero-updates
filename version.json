@@ -1,6 +1,6 @@
 {
-  "version": "0.2.10",
-  "sha256": "b153cfe62cd0acd1769d526952508bfb7a390475064385e1c598226bb9c3c93f",
-  "notas": "Uso del plan y buscador con mejor contraste; panel con el detalle de cada límite.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/4ec014e61931d993181e6467b0442c9582015113/minutero.exe"
+  "version": "0.2.11",
+  "sha256": "76ff71c761d905faaabfb6f35bce94caa13c081d87a7526ad282fa245e6f9ffe",
+  "notas": "Tus minutas en Claude Code o Codex (servidor MCP y «Seguir en Claude Code»), tareas por proyecto con seguimiento entre reuniones, capítulos con hora y acento azul.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/3c4d61a3ad9a46fbbc371e9230576b60b413f055/minutero.exe"
 }
