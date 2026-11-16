@@ -1,6 +1,6 @@
 {
-  "version": "0.2.11",
-  "sha256": "76ff71c761d905faaabfb6f35bce94caa13c081d87a7526ad282fa245e6f9ffe",
-  "notas": "Tus minutas en Claude Code o Codex (servidor MCP y «Seguir en Claude Code»), tareas por proyecto con seguimiento entre reuniones, capítulos con hora y acento azul.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/3c4d61a3ad9a46fbbc371e9230576b60b413f055/minutero.exe"
+  "version": "0.2.12",
+  "sha256": "ddfe3b1575fb34e4dc10e03dd88a1483bbe214e83bde8402ced4809def0763d0",
+  "notas": "Nuevo diseño (Hoy, Reuniones, Tareas y Proyectos), voces de la llamada mejor separadas y recordadas, «No avisar más» y proyecto recordado en reuniones que se repiten, y liberar espacio.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/0e63c2ecfebe7f4a2470e8bce80acc17d654d724/minutero.exe"
 }
