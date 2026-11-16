@@ -1,6 +1,6 @@
 {
-  "version": "0.2.12",
-  "sha256": "ddfe3b1575fb34e4dc10e03dd88a1483bbe214e83bde8402ced4809def0763d0",
-  "notas": "Nuevo diseño (Hoy, Reuniones, Tareas y Proyectos), voces de la llamada mejor separadas y recordadas, «No avisar más» y proyecto recordado en reuniones que se repiten, y liberar espacio.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/0e63c2ecfebe7f4a2470e8bce80acc17d654d724/minutero.exe"
+  "version": "0.2.13",
+  "sha256": "15ec788e42face9103d95b9c0510326433fa5990b2f4cc46315b5f077787e24a",
+  "notas": "Propuestas de nombre más confiables: Minutero solo propone quién es cada voz si en la reunión se presentó o la llamaron por su nombre.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/e608a3e495f95caff2836f02243dc0c2afd92e92/minutero.exe"
 }
