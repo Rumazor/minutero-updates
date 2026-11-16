@@ -1,6 +1,6 @@
 {
-  "version": "0.2.13",
-  "sha256": "15ec788e42face9103d95b9c0510326433fa5990b2f4cc46315b5f077787e24a",
-  "notas": "Propuestas de nombre más confiables: Minutero solo propone quién es cada voz si en la reunión se presentó o la llamaron por su nombre.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/e608a3e495f95caff2836f02243dc0c2afd92e92/minutero.exe"
+  "version": "0.2.14",
+  "sha256": "103eb1754c9fce17eb5b8f2d43f91be6d9b497efa1f409a788e97c53f70e0229",
+  "notas": "Grabar al empezar: si aceptas el aviso antes de la hora, la grabación empieza sola al entrar a la llamada o a la hora de inicio. Además, propuestas de nombre solo con evidencia.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/c5e8958ffec6f215f34c8829934e969a7411453d/minutero.exe"
 }
