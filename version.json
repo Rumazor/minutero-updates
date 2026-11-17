@@ -1,6 +1,6 @@
 {
-  "version": "0.2.15",
-  "sha256": "b93a9438eaaf667a53fce9dd877f214fbdcf725816c91cfdb05d6ae017d5a520",
-  "notas": "Aviso de Windows cuando la minuta está lista, atajos de teclado (Ctrl+Shift+Alt+G y Ctrl+Shift+Alt+M), marcar momentos importantes, conservar el audio de una reunión, aviso de sesión de Google vencida y voces más rápidas en reuniones largas.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/43c675f64fdef2f1ef8bf5d0c131959ffe55d553/minutero.exe"
+  "version": "0.2.16",
+  "sha256": "84b7c682aae1903388d2150f43ee988c87d415c36115f919fc0023f9f4d1f7d3",
+  "notas": "Lo importante de cada reunión para escuchar uno a uno o seguido, corrección de nombres mal transcritos, tus tareas aparte («Mías» y «No me toca»), voces partidas que se juntan con un clic, «Para retomar» antes de la próxima reunión, aviso si no se oye la llamada, importar grabaciones y separar las voces de una reunión presencial.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/f3919ff26afb1814944c11443b18dcb3a0fab57b/minutero.exe"
 }
