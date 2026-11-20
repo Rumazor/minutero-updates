@@ -1,6 +1,6 @@
 {
-  "version": "0.2.17",
-  "sha256": "7f9e81b64d6160a6d7fe1bc9a0ad4f751401120eb7314a1dac61e74db887fc8d",
-  "notas": "Capturas de la pantalla de la reunión: con la cámara de la barra de grabación o Ctrl+Shift+Alt+C, y automáticas en prueba (Configuración › Reuniones). La minuta las suma en «Lo que se mostró en pantalla», junto a lo que se estaba explicando.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/a391e57ce8f8a1f726834a438e7b053d63375afa/minutero.exe"
+  "version": "0.2.18",
+  "sha256": "80bc9494c8b3df0afd05346ec971d28319f0e9788d89f62d30d8fafbe9842985",
+  "notas": "El redactor mira las capturas de pantalla y la minuta dice qué se veía en cada una; pestaña «Capturas» con las imágenes grandes; las tareas largas ya no se cortan en el borde.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/a74797b6adcb1f492d2ec56a99e185306ead4e4d/minutero.exe"
 }
