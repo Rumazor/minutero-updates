@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
-  "sha256": "80bc9494c8b3df0afd05346ec971d28319f0e9788d89f62d30d8fafbe9842985",
-  "notas": "El redactor mira las capturas de pantalla y la minuta dice qué se veía en cada una; pestaña «Capturas» con las imágenes grandes; las tareas largas ya no se cortan en el borde.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/a74797b6adcb1f492d2ec56a99e185306ead4e4d/minutero.exe"
+  "version": "0.2.19",
+  "sha256": "375f27dfff1c74f8259d587f9d92d8cabe193ba94858abb672e4a5aadcdea9bc",
+  "notas": "El redactor ve las capturas de toda la reunión, la X deja Minutero minimizada, búsqueda sin tildes y con el glosario, «¿Quién es?» en las tareas de voces sin nombre y capturas en Drive.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/5ea52645ecc8baa5f97c8e161bc0bac877e3e18e/minutero.exe"
 }
