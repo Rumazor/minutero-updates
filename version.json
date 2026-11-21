@@ -1,6 +1,6 @@
 {
-  "version": "0.2.19",
-  "sha256": "375f27dfff1c74f8259d587f9d92d8cabe193ba94858abb672e4a5aadcdea9bc",
-  "notas": "El redactor ve las capturas de toda la reunión, la X deja Minutero minimizada, búsqueda sin tildes y con el glosario, «¿Quién es?» en las tareas de voces sin nombre y capturas en Drive.",
-  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/5ea52645ecc8baa5f97c8e161bc0bac877e3e18e/minutero.exe"
+  "version": "0.2.20",
+  "sha256": "185b85f7a5089ffbe33730cff0737ce150248f5ea0607761f0639504d700e260",
+  "notas": "Nuevo, en prueba: video de la ventana de la reunión con su audio (Configuración › Reuniones). Se borra y se conserva junto con el audio.",
+  "url": "https://raw.githubusercontent.com/Rumazor/minutero-updates/a50a4824453493905fb197d3d6567f0beea6ecb8/minutero.exe"
 }
